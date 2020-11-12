@@ -21,7 +21,7 @@ Repositório dedicado a armazenar os exercicios desenvolvidos durante o curso de
 * [Mundo 2: Estruturas de Controle](https://github.com/VictorOliveira02/Desafios-Python3-Curso-em-Video/blob/main/Certificados/Certificado%20-%20CeV%20-%20MUNDO2_PYTHON.pdf)
 * [Mundo 3: Estruturas Compostas](https://github.com/VictorOliveira02/Desafios-Python3-Curso-em-Video/blob/main/Certificados/Certificado%20-%20CeV%20-%20MUNDO3_PYTHON.pdf)
 
-## 📋 Exercicios Resolvidos
+## 🔧 Exercicios Resolvidos
 
 * [Mundo 1: Fundamentos](https://github.com/VictorOliveira02/Desafios-Python3-Curso-em-Video/tree/main/Mundo%201_Fundamentos)
 * [Mundo 2: Estruturas de Controle](https://github.com/VictorOliveira02/Desafios-Python3-Curso-em-Video/tree/main/Mundo%202_Estruturas%20de%20Controle)
